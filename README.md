@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-#
+
 [![](https://visitcount.itsvg.in/api?id=Ali-2002&icon=5&color=9)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
