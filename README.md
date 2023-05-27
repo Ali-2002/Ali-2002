@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
----
-[![](https://visitcount.itsvg.in/api?id=Ali-2002&icon=5&color=9)](https://visitcount.itsvg.in)
+
 
 # 💫 About Me:
 🌱 I’m currently learning Next JS and Typescript<br>👀 I’m interested in videogames, coding and learn new things.<br>💬 Ask me about Web Development<br>📫 How to reach me ali.aliguliyev001@gmail.com
@@ -18,3 +17,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ali-2002&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+---
+[![](https://visitcount.itsvg.in/api?id=Ali-2002&icon=5&color=9)](https://visitcount.itsvg.in)
