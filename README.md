@@ -16,6 +16,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ali-2002&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Ali-2002&icon=5&color=9)](https://visitcount.itsvg.in)
